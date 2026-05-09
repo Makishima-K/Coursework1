@@ -1,0 +1,12 @@
+C:\Users\maksg\Desktop\C++\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\maksg\Desktop\C++\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\maksg\Desktop\C++\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\User\Downloads\Project2\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\User\Downloads\Project2\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\User\Downloads\Project2\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\Coursework1-main\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\Coursework1-main\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\User\Desktop\Coursework1-main\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\maksg\Desktop\guiylik\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\maksg\Desktop\guiylik\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\maksg\Desktop\guiylik\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
