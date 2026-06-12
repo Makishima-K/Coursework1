@@ -1,0 +1,7 @@
+id name expiration_date purchase_date address
+1 mini 26052026 25052026 Amazon
+2 mini 26052026 25052026 Amazon
+3 mini 26052026 25052026 Amazon
+4 mini 26052026 25052026 Amazon
+5 mini 26052026 25052026 Amazon
+6 mini 26052026 25052026 Amazon

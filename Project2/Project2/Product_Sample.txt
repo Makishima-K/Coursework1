@@ -1,0 +1,4 @@
+id name count_on_one_pallet is_expiration_date shelf_life_days price_buy price_sale
+1 Test 1 1 1 21 123
+2 Space_test 1 1 1 1 2
+3 mini 1 1 1 1 2

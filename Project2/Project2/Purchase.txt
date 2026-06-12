@@ -1,0 +1,10 @@
+id product_id name price purchase_date
+1 1 mini 1 25052026
+2 2 mini 1 25052026
+3 3 mini 1 25052026
+4 4 mini 1 25052026
+5 5 mini 1 25052026
+6 6 mini 1 25052026
+7 7 Space_test 1 25052026
+8 8 Space_test 1 25052026
+9 9 Space_test 1 25052026

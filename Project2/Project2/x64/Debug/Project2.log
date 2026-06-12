@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Project2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  calculateProfit.cpp
+  checkDate.cpp
+  main.cpp
+  utils.cpp
+  writeData.cpp
+M:\git\Coursework1\guiylik\Project2\Project2\writeData.cpp(158,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+M:\git\Coursework1\guiylik\Project2\Project2\writeData.cpp(541,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+M:\git\Coursework1\guiylik\Project2\Project2\utils.cpp(134,1): warning C4715: takeDataInWarehouse: значение возвращается не при всех путях выполнения
+  calculateProfit.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project2.vcxproj -> M:\git\Coursework1\guiylik\Project2\x64\Debug\CourseWork.exe
